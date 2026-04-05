@@ -35,13 +35,3 @@ Data Processing
 Software Development
 ##📍 Location
 Sana'a, Yemen
-
-
-
-
-
-
-
-Sana'a, Yemen
-
-📊 GitHub Stats
