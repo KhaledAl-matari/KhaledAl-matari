@@ -27,35 +27,35 @@
 
 ## 📊 Data Science & Analytics
 
-Data Analysis with Python
-Data Visualization
-Power BI
-STATA
-R
-Big Data Tools (Hadoop)
+- Data Analysis with Python
+- Data Visualization
+- Power BI
+- STATA
+- R
+- Big Data Tools (Hadoop)
 
 ---
 
 ## 💻 Programming Languages
 
-Python
-C++
-Java
-JavaScript
-PHP
-HTML
-CSS
-Dart (Flutter)
+- Python
+- C++
+- Java
+- JavaScript
+- PHP
+- HTML
+- CSS
+- Dart (Flutter)
 
 ---
 
 ## 🛠 Tools & Technologies
 
-Git & GitHub
-Flutter
-Web Development
-Data Processing
-Software Development
+- Git & GitHub
+- Flutter
+- Web Development
+- Data Processing
+- Software Development
 
 ---
 
