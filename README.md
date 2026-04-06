@@ -31,7 +31,6 @@
 - Data Visualization
 - Power BI
 - STATA
-- R
 - Big Data Tools (Hadoop)
 
 ---
